@@ -97,7 +97,7 @@ hr {
     display: flex;
     width: 100%;
     font-size: 1.20rem;
-    background-color: #668C4A;
+   
     height: 500px;
 }
 
@@ -132,10 +132,7 @@ img {
     max-width: 100%;
 }
 
-.experiencia {
-    background-color: white;
-    color: black;
-}
+
 
 .experiencia_container {
     display: flex;
